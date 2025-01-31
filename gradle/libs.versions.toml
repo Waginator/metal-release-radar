@@ -1,6 +1,6 @@
 [versions]
 cacheApi = "1.1.1"
-commonsCodec = "1.17.2"
+commonsCodec = "1.18.0"
 commonsLang3 = "3.17.0"
 commonsText = "1.13.0"
 ehcache = "3.10.8"
